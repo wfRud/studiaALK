@@ -15,4 +15,4 @@ function() {
 ```
 
 Important links:
-[Check this link](www.wp.pl)
+[Check this link](https://github.com)
